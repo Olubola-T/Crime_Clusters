@@ -23,7 +23,10 @@ Birmingham had the highest number of reported crimes (about 4 times as much as C
 There were four clusters in the Coventry dataset.
 
 Cluster 0: This is the cluster with the second-highest crime rates in all categories apart from vehicle crime (in which it is surpassed by Cluster 1), and 70.5% of the LSOAs in Coventry are in this cluster.
+
 Cluster 1: It has the second-lowest crime rates in all categories part from vehicle crime (in which it surpasses Cluster 0), and contains 21.5% of the LSOAs in Coventry.
+
 Cluster 2: Crime is almost non-existent in this cluster. Criminal damage, other theft, and other crime are the crime categories that had significant numbers of reports in this cluster, thought the rates are still the lowest of all the clusters'. LSOAs in this cluster appear to be the safest places to live in if crime rate is the metric. Only 1.5% of the LSOAs are in this cluster.
+
 Cluster 3: This cluster is characterized by the highest crime rates in all categories. LSOAs in this cluster need to be prioritized for crime control. About 6.5 of the LSOAs are in this cluster.
 
