@@ -12,7 +12,7 @@ A dataframe was created by merging the various csv files that contained the data
  
 CLUSTERING
 
-Both hierarchical and k-means clustering were initially tested on the data; hierarchical performed better and was fitted to the data. Cluster labels were generated. Dimensionaluty reduction with principal component analysis was performed in order to visualize the clusters. Barplots were used to examine the characteristics of the clusters.
+Both hierarchical and k-means clustering were initially tested on the data; hierarchical performed better and was fitted to the data. Cluster labels were generated. Dimensionaluty reduction with principal component analysis was performed in order to visualize the clusters. Barplots were used to examine the characteristics of the clusters. A colour-coded map of Coventry was used to represent the findings.
 
 RESULTS
 
@@ -30,3 +30,4 @@ Cluster 2: Crime is almost non-existent in this cluster. Criminal damage, other 
 
 Cluster 3: This cluster is characterized by the highest crime rates in all categories. LSOAs in this cluster need to be prioritized for crime control. About 6.5 of the LSOAs are in this cluster.
 
+A colour-coded map of Coventry was used to represent the findings.
